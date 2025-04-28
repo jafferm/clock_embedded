@@ -10,5 +10,5 @@ class ClockWidget
     private:
     QLabel label;
     QTimer timer;
-    int time=12;
+    
 };
